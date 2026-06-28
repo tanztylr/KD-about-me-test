@@ -23,9 +23,7 @@
 
 # 📖 Current Chapter
 
-I'm currently building practical solutions that simplify everyday work through automation, documentation, and thoughtful workflow design.
-
-My focus is on learning new technologies while creating projects that improve efficiency and make life a little easier.
+SAMPLE TEXT
 
 ---
 
@@ -89,15 +87,13 @@ Currently learning and exploring:
 
 # 🏷️ Bookmarks
 
-🎵 Music
+🎵 SAMPLE TEXT
 
-🌿 Olive Green Everything
+🌿 SAMPLE TEXT
 
-🎮 Funko Pops
+🎮 SAMPLE TEXT
 
-✈️ Traveling
-
-☕ Finding new places to explore
+✈️ SAMPLE TEXT
 
 ---
 
@@ -111,13 +107,13 @@ Currently learning and exploring:
 
 # 📖 Next Chapter
 
-✨ Continue learning JavaScript
+✨ SAMPLE TEXT
 
-✨ Build additional workflow automation projects
+✨ SAMPLE TEXT
 
-✨ Explore APIs and integrations
+✨ SAMPLE TEXT
 
-✨ Grow this library one project at a time
+✨ SAMPLE TEXT
 
 ---
 
